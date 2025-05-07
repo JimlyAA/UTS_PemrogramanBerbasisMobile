@@ -13,7 +13,8 @@ Aplikasi Flutter ini dibuat sebagai tugas UTS mata kuliah **Pemrograman Berbasis
 | HOME ![Screenshot 2025-05-07 011152](https://github.com/user-attachments/assets/f40fb344-495e-4446-8558-fc894e981f21)
  | JADWAL ![Screenshot 2025-05-07 011152](https://github.com/user-attachments/assets/58dbb955-08af-4e08-b66c-b23d81d93592)
  |
-| ![Mobile Screenshot 2](screenshots/mobile_2.png) | ![Tablet Screenshot 2](screenshots/tablet_2.png) |
+| HOME ![Screenshot 2025-05-07 011152](https://github.com/user-attachments/assets/cfb5de99-0b8a-4229-8115-48b624a18e9b)
+ | ![Tablet Screenshot 2](screenshots/tablet_2.png) |
 
 > Screenshot disimpan di folder `screenshots/` dalam repositori ini.
 
