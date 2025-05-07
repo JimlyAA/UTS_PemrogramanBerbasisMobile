@@ -1,8 +1,8 @@
 # Aplikasi Jadwal Kuliah Dan Kegiatan Mahasiswa - UTS Pemrograman Berbasis Mobile
 
-**Nama**: Jimly Asidiq Anwar 
+- **Nama**: Jimly Asidiq Anwar 
 
-**NPM**: 4522210018  
+- **NPM**: 4522210018  
 
 Aplikasi Flutter ini dibuat sebagai tugas **UTS** dari mata kuliah **Pemrograman Berbasis Mobile**. Aplikasi ini memiliki 3 fitur utama:
 
