@@ -1,10 +1,30 @@
 # Aplikasi Jadwal Kuliah Dan Kegiatan Mahasiswa - UTS Pemrograman Berbasis Mobile
 
+**Nama**: Jimly Asidiq Anwar 
+**NPM**: 4522210018  
+
 Aplikasi Flutter ini dibuat sebagai tugas **UTS** dari mata kuliah **Pemrograman Berbasis Mobile**. Aplikasi ini memiliki 3 fitur utama:
 
-- **🏠 Home**: Menampilkan daftar kegiatan mahasiswa dengan checkbox.
-- **📅 Jadwal**: Menampilkan jadwal kuliah mingguan dan dapat difilter berdasarkan hari.
-- **👤 Akun**: Menampilkan informasi pengguna dan tombol untuk mengubah tema (Light/Dark Mode).
+### 🏠 Home**: 
+- Menampilkan daftar **kegiatan mahasiswa** seperti tugas atau UTS.
+- Setiap kegiatan memiliki **judul**, **tanggal**, dan **checkbox** untuk menandai bahwa kegiatan sudah selesai.
+- Desain sederhana dan mudah digunakan untuk memantau aktivitas harian.
+
+### 📅 Jadwal**: M
+- Menampilkan **jadwal mata kuliah mingguan** dalam bentuk daftar.
+- Pengguna dapat menggunakan **dropdown filter** untuk memilih jadwal berdasarkan **hari** (Senin–Jumat) atau menampilkan semua.
+- Setiap item jadwal menampilkan:
+  - **Nama mata kuliah**
+  - **Hari dan jam perkuliahan**
+  - **Kelas**
+  - **Jumlah SKS**
+- Tampilan menggunakan kartu (Card) untuk memisahkan setiap jadwal secara visual.
+
+### 👤 Akun**: 
+- Menampilkan informasi pengguna seperti **nama**, **NPM**, dan **email**.
+- Tersedia **switch tema** untuk mengaktifkan atau menonaktifkan **mode gelap (dark mode)**.
+- Menampilkan **foto profil bundar** di bagian atas halaman.
+- Didesain dengan tampilan rapi dan terpusat agar mudah dibaca oleh pengguna.
 
 ---
 
