@@ -6,7 +6,7 @@
 
 Aplikasi Flutter ini dibuat sebagai tugas **UTS** dari mata kuliah **Pemrograman Berbasis Mobile**. Aplikasi ini memiliki 3 fitur utama:
 
-### 🏠 Home**: 
+### **🏠 Home**: 
 - Menampilkan daftar **kegiatan mahasiswa** seperti tugas atau UTS.
 - Setiap kegiatan memiliki **judul**, **tanggal**, dan **checkbox** untuk menandai bahwa kegiatan sudah selesai.
 - Desain sederhana dan mudah digunakan untuk memantau aktivitas harian.
