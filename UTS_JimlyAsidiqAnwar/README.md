@@ -1,16 +1,29 @@
-# uts
+# Aplikasi Mahasiswa - UTS Pemrograman Berbasis Mobile
 
-A new Flutter project.
+Aplikasi Flutter ini dibuat sebagai tugas UTS mata kuliah **Pemrograman Berbasis Mobile**. Aplikasi menampilkan 3 fitur utama:
 
-## Getting Started
+- **Home**: Daftar kegiatan mahasiswa
+- **Jadwal**: Jadwal mata kuliah mingguan dengan fitur filter berdasarkan hari
+- **Akun**: Profil pengguna lengkap dengan pengaturan tema light/dark
 
-This project is a starting point for a Flutter application.
+## 📱 Tampilan Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+| Mobile | Tablet |
+|--------|--------|
+| ![Mobile Screenshot 1](screenshots/mobile_1.png) | ![Tablet Screenshot 1](screenshots/tablet_1.png) |
+| ![Mobile Screenshot 2](screenshots/mobile_2.png) | ![Tablet Screenshot 2](screenshots/tablet_2.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Screenshot disimpan di folder `screenshots/` dalam repositori ini.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Cara Menjalankan Aplikasi
+
+### Prasyarat
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) (versi 3.x)
+- Android Studio atau VS Code
+
+### Langkah-langkah
+
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/namakamu/UTS_PemrogramanBerbasisMobile.git
+   cd UTS_PemrogramanBerbasisMobile
