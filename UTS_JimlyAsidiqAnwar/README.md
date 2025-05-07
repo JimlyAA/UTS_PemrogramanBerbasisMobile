@@ -11,7 +11,7 @@ Aplikasi Flutter ini dibuat sebagai tugas **UTS** dari mata kuliah **Pemrograman
 - Setiap kegiatan memiliki **judul**, **tanggal**, dan **checkbox** untuk menandai bahwa kegiatan sudah selesai.
 - Desain sederhana dan mudah digunakan untuk memantau aktivitas harian.
 
-### 📅 Jadwal**: M
+### **📅 Jadwal**: 
 - Menampilkan **jadwal mata kuliah mingguan** dalam bentuk daftar.
 - Pengguna dapat menggunakan **dropdown filter** untuk memilih jadwal berdasarkan **hari** (Senin–Jumat) atau menampilkan semua.
 - Setiap item jadwal menampilkan:
@@ -21,7 +21,7 @@ Aplikasi Flutter ini dibuat sebagai tugas **UTS** dari mata kuliah **Pemrograman
   - **Jumlah SKS**
 - Tampilan menggunakan kartu (Card) untuk memisahkan setiap jadwal secara visual.
 
-### 👤 Akun**: 
+### **👤 Akun**: 
 - Menampilkan informasi pengguna seperti **nama**, **NPM**, dan **email**.
 - Tersedia **switch tema** untuk mengaktifkan atau menonaktifkan **mode gelap (dark mode)**.
 - Menampilkan **foto profil bundar** di bagian atas halaman.
