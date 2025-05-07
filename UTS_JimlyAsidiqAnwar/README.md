@@ -7,7 +7,8 @@ Aplikasi Flutter ini dibuat sebagai tugas UTS mata kuliah **Pemrograman Berbasis
 - **Akun**: Profil pengguna lengkap dengan pengaturan tema light/dark
 
 ## 📱 Tampilan Aplikasi
-- MOBILE
+###MOBILE
+
   Halaman Home
   ![image](https://github.com/user-attachments/assets/f80a7f9e-3a4d-48b7-bdb3-4a013440b4ca)
 
