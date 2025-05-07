@@ -7,26 +7,32 @@ Aplikasi Flutter ini dibuat sebagai tugas UTS mata kuliah **Pemrograman Berbasis
 - **Akun**: Profil pengguna lengkap dengan pengaturan tema light/dark
 
 ## 📱 Tampilan Aplikasi
+- MOBILE
+  Halaman Home
+  ![image](https://github.com/user-attachments/assets/f80a7f9e-3a4d-48b7-bdb3-4a013440b4ca)
 
-| Mobile | Tablet |
-|--------|--------|
-| HOME ![Screenshot 2025-05-07 011152](https://github.com/user-attachments/assets/f40fb344-495e-4446-8558-fc894e981f21)
- | JADWAL ![Screenshot 2025-05-07 011152](https://github.com/user-attachments/assets/58dbb955-08af-4e08-b66c-b23d81d93592)
- |
-| HOME ![Screenshot 2025-05-07 011152](https://github.com/user-attachments/assets/cfb5de99-0b8a-4229-8115-48b624a18e9b)
- | ![Tablet Screenshot 2](screenshots/tablet_2.png) |
+  Halaman Jadwal
+  ![image](https://github.com/user-attachments/assets/312f7d6a-0aa1-45ab-9181-b510c121b222)
 
-> Screenshot disimpan di folder `screenshots/` dalam repositori ini.
+  Halaman Akun
+  ![image](https://github.com/user-attachments/assets/a77ab3cd-851f-4e89-898c-bcc310c5de1c)
 
-## 🚀 Cara Menjalankan Aplikasi
+  
+- TABLET
+  Halaman Home
+  Halaman Jadwal
+  Halaman Akun
+- WEB
+  Halaman Home
+  ![image](https://github.com/user-attachments/assets/e8a932ac-dfb8-429f-a2f2-52d9ccc33823)
 
-### Prasyarat
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) (versi 3.x)
-- Android Studio atau VS Code
+  Halaman Jadwal
+  ![image](https://github.com/user-attachments/assets/726f30dd-e7df-46ed-a6f3-eec8ec7cebea)
 
-### Langkah-langkah
+  Halaman Akun
+  ![image](https://github.com/user-attachments/assets/8111e257-55e4-4e2e-ad2e-6e9cdb1f4b7b)
 
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/namakamu/UTS_PemrogramanBerbasisMobile.git
-   cd UTS_PemrogramanBerbasisMobile
+
+
+##  Cara Menjalankan Aplikasi
+
