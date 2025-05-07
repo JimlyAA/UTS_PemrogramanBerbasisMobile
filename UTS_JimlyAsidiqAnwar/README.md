@@ -38,4 +38,9 @@ Aplikasi Flutter ini dibuat sebagai tugas **UTS** dari mata kuliah **Pemrograman
 
 
 ##  Cara Menjalankan Aplikasi
-
+### ▶️ Langkah-langkah
+```bash
+git clone https://github.com/namakamu/UTS_PemrogramanBerbasisMobile.git
+cd UTS_PemrogramanBerbasisMobile
+flutter pub get
+flutter run
