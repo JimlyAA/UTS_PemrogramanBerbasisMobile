@@ -44,7 +44,7 @@ Aplikasi Flutter ini dibuat sebagai tugas **UTS** dari mata kuliah **Pemrograman
 
 ---
 
-### 💻 Web/Tablet View
+### 💻 Web View
 
 #### Halaman Home
 ![Home Web](https://github.com/user-attachments/assets/e8a932ac-dfb8-429f-a2f2-52d9ccc33823)
@@ -55,11 +55,25 @@ Aplikasi Flutter ini dibuat sebagai tugas **UTS** dari mata kuliah **Pemrograman
 #### Halaman Akun
 ![Akun Web](https://github.com/user-attachments/assets/8111e257-55e4-4e2e-ad2e-6e9cdb1f4b7b)
 
+---
+
+### 📱  Tablet View
+
+#### Halaman Home
+![image](https://github.com/user-attachments/assets/9c0d3b30-386d-4995-8c76-1624f00e7eca)
+
+#### Halaman Jadwal
+![image](https://github.com/user-attachments/assets/a10cb331-3e61-4c79-b653-c4834e5ca4d2)
+
+#### Halaman Akun
+![image](https://github.com/user-attachments/assets/d85a93dc-d464-4a76-9967-12e09316b064)
+
+
 
 
 
 ##  Cara Menjalankan Aplikasi
-### Langkah0langkah :
+### Langkah-langkah :
 ```bash
 git clone https://github.com/namakamu/UTS_PemrogramanBerbasisMobile.git
 cd UTS_PemrogramanBerbasisMobile
